@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.271
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Banca", "Banca\Banca.csproj", "{1F0A807E-937F-474F-A1A1-BFB02CB5349A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumatoriasMonto", "Combinaciones\ReemplazaCadena\SumatoriasMonto.csproj", "{C4A75994-D346-4255-AC72-B8AF87F18C86}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1F0A807E-937F-474F-A1A1-BFB02CB5349A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F0A807E-937F-474F-A1A1-BFB02CB5349A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F0A807E-937F-474F-A1A1-BFB02CB5349A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4A75994-D346-4255-AC72-B8AF87F18C86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4A75994-D346-4255-AC72-B8AF87F18C86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4A75994-D346-4255-AC72-B8AF87F18C86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4A75994-D346-4255-AC72-B8AF87F18C86}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
